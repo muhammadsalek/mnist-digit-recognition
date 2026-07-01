@@ -1,8 +1,8 @@
-numpy
-tensorflow
-matplotlib
 streamlit
+tensorflow==2.15.0
+numpy<2.0
+matplotlib
 streamlit-drawable-canvas
-opencv-python
+opencv-python-headless
 Pillow
 scikit-learn
